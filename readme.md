@@ -1,5 +1,11 @@
 # Realty Rift
 
+## Coolest CRM for realtors to manage their realty in one place!
+
+Checkout this [DEMO](https://rent-apart.vercel.app) to start manage your realty in one place!
+
+![DEMO](https://user-images.githubusercontent.com/132020019/235011908-13b88808-39a5-4c44-8bb5-685da00e0e96.gif)
+
 Realty Rift is a cool CRM for realtors that allows them to manage their realty in one place. The project is built using React and TailwindCSS on the client side, and Express, Pug, and Mongoose on the server side.
 
 ## Features
