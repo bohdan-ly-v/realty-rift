@@ -7,6 +7,7 @@ Checkout this [DEMO](https://rent-apart.vercel.app) to start manage your realty 
 ## Credentials for demo user
 
 Login: dronkfc@gmail.com
+
 Password: test1234
 
 ![DEMO](https://user-images.githubusercontent.com/132020019/235015301-32b454d9-294e-4b00-890d-5732917800f8.gif)
